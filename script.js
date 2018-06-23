@@ -1,4 +1,3 @@
-function ({
     function open_nav() {
         var nav = document.getElementsByClassName('nav');
         for(var i = 0, length = nav.length; i < length; i++) {
@@ -264,4 +263,4 @@ function ({
         document.getElementById('p_in_error').remove();
         document.getElementById('error').style.display = 'none'
     }
-})()
+
