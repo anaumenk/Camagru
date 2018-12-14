@@ -64,7 +64,7 @@ INSERT INTO `images` (`id_img`, `user_id`, `img_src`, `likes`, `comments`) VALUE
 (3, 77, '../img/users/02.jpg', 0, 0),
 (4, 77, '../img/users/03.jpg', 1, 0),
 (5, 77, '../img/users/5.jpg', 1, 3),
-(7, 78, '../img/users/3.jpg', 0, 0),
+(7, 78, '../img/users/3.jpg', 0, 0);
 
 -- --------------------------------------------------------
 
